@@ -43,7 +43,7 @@ Below are high-resolution snapshots of the interactive **Power BI** dashboard pa
 ![HR Attrition Dashboard 1](./HR%20Attrition%20Dashboard%201.png)
 
 ### 2. Department & Job Role Breakdown
-![HR Attrition Dashboard 2](./HR%20Attrition%20Dashboard%202.png)
+![HR Attrition 2](./HR%20Attrition%20Dashboard%202.png)
 
 ### 3. Employee Demographics & Satisfaction Insights
 ![HR Attrition Dashboard 3](./HR%20Attrition%20Dashboard%203.png)
