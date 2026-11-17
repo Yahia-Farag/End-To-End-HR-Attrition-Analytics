@@ -2,15 +2,19 @@
 
 A comprehensive, end-to-end human resources analytics and employee attrition investigation project using **T-SQL (SQL Server)** and **Power BI** to uncover root causes of staff turnover and deliver actionable retention insights.
 
+## 🔗 Live Interactive Dashboard
+
+[View the Live Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYTk5YTkzNDItZDRjMi00MWVmLTlmZDctMDE2MzUyNzcyZGMxIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
 ---
 
 ## 📂 Repository Structure & Project Files
 
 This repository contains all the necessary resources to explore, run, and review the project locally or directly through GitHub:
 
-* 📊 **Interactive Power BI Report:** [`HR Attrition Analysis.pbix`](./HR%20Attrition%20Analysis.pbix) *(Download & open in Power BI Desktop for full interactivity)*
-* 📜 **SQL Analysis Script:** [`HR_Analytics.sql`](./HR_Analytics.sql) *(T-SQL queries for data cleaning, aggregation & key metrics)*
-* 🖼️ **Executive Dashboards:** [`HR Attrition Dashboard 1-4.png`](#-dashboard-preview) *(High-resolution preview screenshots)*
+- 📊 **Interactive Power BI Report:** [`HR Attrition Analysis.pbix`](./HR%20Attrition%20Analysis.pbix) *(Download & open in Power BI Desktop for full interactivity)*
+- 📜 **SQL Analysis Script:** [`HR_Analytics.sql`](./HR_Analytics.sql) *(T-SQL queries for data cleaning, aggregation & key metrics)*
+- 🖼️ **Executive Dashboards:** [`HR Attrition Dashboard 1-4.png`](#-dashboard-preview) *(High-resolution preview screenshots)*
 
 ---
 
@@ -54,9 +58,9 @@ Below are high-resolution snapshots of the interactive **Power BI** dashboard pa
 ---
 
 ## 🛠️ Technologies Used
-* **SQL Server (T-SQL):** Advanced aggregations, conditional statements (`CASE WHEN`), statistical metrics (`MAX`, `MIN`, `AVG`), and group-by analytics.
-* **Power BI Desktop:** Multi-page interactive executive dashboards, workforce modeling, DAX measures, and visual storytelling.
-* **Git & GitHub:** Version control, file management, and professional project documentation.
+- **SQL Server (T-SQL):** Advanced aggregations, conditional statements (`CASE WHEN`), statistical metrics (`MAX`, `MIN`, `AVG`), and group-by analytics.
+- **Power BI Desktop:** Multi-page interactive executive dashboards, workforce modeling, DAX measures, and visual storytelling.
+- **Git & GitHub:** Version control, file management, and professional project documentation.
 
 ---
 
